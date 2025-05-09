@@ -11,6 +11,6 @@ First Time Git & Github Setup
 Next Time Onwards
 ==================
 1. git pull
-2. git add
+2. git add .
 3. git commit -m "some message"
 4. git push
